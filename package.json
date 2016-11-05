@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/aadshalshihry/mygulp/issues"
   },
-  "homepage": "https://github.com/aadshalshihry/mygulp#readme"
+  "homepage": "https://github.com/aadshalshihry/mygulp#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0"
+  }
 }

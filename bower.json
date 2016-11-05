@@ -1,0 +1,19 @@
+{
+  "name": "mygulp",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "Roman Alshehri <aalshehri08@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/aadshalshihry/mygulp",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_lib/",
+    "test",
+    "tests"
+  ]
+}
